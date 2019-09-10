@@ -1,5 +1,6 @@
 Identity Hub Reference Implementation
 ================================
+![alt text](https://raw.githubusercontent.com/decentralized-identity/hubs/master/diagrams/full-system.png)
 
 This repo contains an open source implementation of a DIF identity hub for evaluation purposes. It is not intended for production use. The APIs and protocols used throughout are part of a proposed standard for decentralized data storage.
 
